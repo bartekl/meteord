@@ -2,4 +2,8 @@
 
 set -e
 
-apt-get -y install libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev build-essential g++
+apt-get -y install libcairo2-dev 
+apt-get -y install libjpeg8-dev 
+apt-get -y install libpango1.0-dev 
+apt-get -y install libgif-dev 
+apt-get -y install build-essential g++
